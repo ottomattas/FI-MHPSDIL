@@ -1,0 +1,48 @@
+For preparing for the teacher session, look out for scenarios:
+* one you thought most interesting
+* one you disagreed about
+* one that is still ongoing and for which you would like our advice
+* one that you have questions about
+
+-----------------------------------
+Format
+--------------
+1* Introduction: One group member explains their dilemma
+
+2* Clarification: Other group members ask questions to clarify (e.g. ‘what was agreed beforehand?’; ‘what does this abbreviation mean’; ‘what is common practice in your field?’) – do not hesitate to ask questions, you will probably have a different master background than your group member, so it is likely she/he will use terms you do not understand.
+
+3* Criteria acceptable solutions: All groups members cooperate to list criteria for acceptable solutions (e.g. no delay in graduation; manipulated data should not be published ...)
+
+4* Possible solutions: All group members brainstorm on possible solutions – do not judge solutions yet!
+
+5* Evaluate solutions: All group members compare possible solutions with criteria listed in step 4 and decide which solution think is best.
+
+-----------------------------------
+Scenarios
+--------------
+
+1) Student had to test people on reaction times for a thesis. The research question was predefined. After experimentation was done and results came in, the supervisor suggested changing the research question. So that to reflect the results in a meaningful way. It is common approach for the supervisor to write the introduction to a thesis after its main body and conclusions - to make an interesting introduction.
+
+How big of a deal it is?
+It's becoming common within different fields, should it?
+How should you do research?
+If you found something interesting, should you follow it even if the research question was predefined?
+--------------
+
+2) Student had a group project where they needed to build a conversational software agent to help users choose a restaurant for their dinner. Their research question was to be chosen so that the interactions with the agent could be used as input. They roughly asked - does a polite agent induce politeness in its users?
+Their user study results went against common expectation. First, they were challenged on maths. Then, the quality of their experiment setup. Then, the participant users themselves. After they were able to convince they knew what they were doing, they were suggested that the question was too obscure and not provable anyway. (Group actually tested users also on what politeness is.) The group disagreed but adjusted their reports accordingly, to get their grade and pass the class.
+--------------
+
+3) Student had to use one concrete research method as a requirement for research. Even though the method did not seem justified to the student, they still continued working as suggested. The student felt stuck with no ability to confirm/challenge the method.
+--------------
+
+4) Student chose a research topic/question from a predetermined list for their thesis. Even though all the lab equipment was not yet available, the supervisor promised it will be procured soon. Also, the first thesis panel checked progress with the student and assured everything will work out in time. It is 11 months after the initial promise has been made and there is still no equipment. What is even worse - there is no effort to procure it. If not lying, the supervisor's negligence is affecting the student's work in a very core way.
+There is an alternative for the hardware setup. Modelling means would be available for the student within the same department if different student groups collaborated. (The means are available to one group but not the other. Unfortunately, the student sits in the other group.) Due to personal feud between professors, the student groups are not collaborating. For the student, it is impossible to approach the means directly. Also, it is hard to see a indirect path due to the personal feud mentioned before.
+The thesis will probably be accepted and the student passed with a degree but the thesis will not achieve its goal. There is no meaningful result to the question posed.
+
+Possible solutions:
+- Acceptance - no delay in graduation;
+- Approaching the integrity officer, tell them not to make the issue public until the student is still dependant on the outcome ofd the discussion.
+--------------
+
+5) The student searched for and found professors to really learn a particularly interesting topic to them. There were two professors in the whole country teaching it, both poorly. The student wanted to give constructive critical feedback after class but felt uncomfortable doing so. This was due to the student's possible professional career being affected by the two professors in the field.
